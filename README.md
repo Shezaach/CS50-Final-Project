@@ -1,5 +1,5 @@
 # Sheza Chaudhry's CS50 Final Project - Puzzle Mania!
-Want to have fun while also excersizing your mind? Welcome to Puzzle Mania! Chose between two engaging puzzles and enjoy.
+Want to have fun while also excercising your mind? Welcome to Puzzle Mania! Chose between two engaging puzzles and enjoy.
 
 **Technologies used:**
 - Visual Studio Code
