@@ -5,7 +5,7 @@ Want to have fun while also excercising your mind? Welcome to Puzzle Mania! Chos
 - Visual Studio Code
 - Languages: HTML, CSS, and JavaScript
 
-## Rundown
+## Functionality
 When the game is first loaded up, the user sees two buttons: one for the Magic Square game and one for the Color Memory game.
 
 ### Magic Square:
